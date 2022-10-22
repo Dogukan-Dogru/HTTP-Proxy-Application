@@ -1,0 +1,3 @@
+LocalIP: 192.168.1.21   - Date: 08-Oca-2022-12:41:52-GMT   - WebsiteIP: 54.237.186.69   - Domain: httpbin.org   - Path: /patch   - HttpMethod: PATCH   - StatusCode: 405
+LocalIP: 192.168.1.21   - Date: 08-Oca-2022-12:41:52-GMT   - WebsiteIP: 18.204.236.159   - Domain: httpbin.org   - Path: /post   - HttpMethod: POST   - StatusCode: 200
+LocalIP: 192.168.1.21   - Date: 08-Oca-2022-12:41:52-GMT   - WebsiteIP: 172.66.40.254   - Domain: reqbin.com   - Path: /echo   - HttpMethod: HEAD   - StatusCode: 301
